@@ -46,11 +46,11 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<!-- <dependency>
+		<dependency>
 			<groupId>at.favre.lib</groupId>
 			<artifactId>bcrypt</artifactId>
-			<version>{latest-version}</version>
-		</dependency> -->
+			<version>0.7.0</version>
+		</dependency>
 
 	</dependencies>
 
